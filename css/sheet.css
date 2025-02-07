@@ -1,0 +1,85 @@
+body {
+  background-color: black;
+  color: white;
+}
+.info {
+  margin: 50px 680px 170px 50px;
+  width: Hug (347.89px) px;
+  height: Fixed (535px) px;
+}
+
+h1 {
+  font-family: manrope;
+  padding-top: 35px;
+  font-size: 54px;
+  font-weight: 500;
+  line-height: 58px;
+  width: 328.51px;
+  height: 174px;
+  gap: 0px;
+  opacity: 0px;
+}
+.pixelmagnet {
+  padding-top: 10px;
+}
+.table {
+  font-family: manrope;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 25px;
+  padding: 21px 31px 0 0;
+}
+li {
+  padding: 18px 0;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  height: 16px;
+  list-style: none;
+}
+ul {
+  width: Fixed (296.88px) px;
+  height: Hug (165.38px) px;
+  gap: 18.38px;
+  opacity: 0px;
+}
+.tick {
+  width: 27.56px;
+  height: 27.56px;
+}
+.button {
+  width: 280px;
+  height: 70px;
+  background-color: rgba(255, 119, 42, 1);
+  color: white;
+  border-radius: 57px;
+  font-family: Inter;
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 27px;
+}
+.orange {
+  padding-top: 57px;
+  width: Hug (347.89px) px;
+  height: Hug (62.91px) px;
+  gap: 19.52px;
+}
+#figma {
+  padding-left: 19px;
+  position: absolute;
+}
+.homepage {
+  margin: 50px 50px 1228px 521px;
+  width: 488.15px;
+  height: 347.13px;
+  gap: 0px;
+  opacity: 0px;
+}
+.head {
+  background-color: white;
+  width: 488.15px;
+  height: 46.78px;
+  gap: 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
